@@ -1,13 +1,12 @@
 
-Memory updated
-Here's a structured documentation template for your machine learning project on predicting heart health using Logistic Regression:
+
 
 Project Title: Heart Health Prediction using Logistic Regression
 Introduction
 The Heart Health Prediction project aims to predict the likelihood of heart disease based on several health-related features using Logistic Regression.
 
 Dataset
-Source: [Heart Health Dataset](provide link to dataset source)
+Source: https://github.com/SNaveen5698/Heart-Health-Prediction-using-Machine-Learning/blob/main/heart.csv
 Description: The dataset contains various health-related features such as age, sex, cholesterol levels, blood pressure, etc., along with the target variable indicating the presence or absence of heart disease.
 Data Preprocessing
 Handling Missing Values: Check for and handle any missing values in the dataset.
@@ -22,4 +21,4 @@ Results
 Model Accuracy: Display the accuracy achieved by the Logistic Regression model on the test data.
 Prediction Example: Provide an example prediction using new data inputs.
 Conclusion
-The Heart Health Prediction project demonstrates the use of Logistic Regression to predict heart disease risk based on health-related attributes. The model achieved a [insert accuracy score]% accuracy on the test set, indicating its potential for accurate heart health predictions.
+The Heart Health Prediction project demonstrates the use of Logistic Regression to predict heart disease risk based on health-related attributes. The model achieved a 86% accuracy on the test set, indicating its potential for accurate heart health predictions.
